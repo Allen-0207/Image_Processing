@@ -2,11 +2,6 @@
  Image processing project via Python.
 
 
-## Installation
-```
-pip install -r requirements.txt
-```
-
 ## Usage
 ```
 python Image_Processing.py
