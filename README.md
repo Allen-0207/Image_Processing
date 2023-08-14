@@ -7,6 +7,9 @@
 python Image_Processing.py
 ```
 
+## 筆記
+[影像處理筆記 (Notion)](https://battle-windshield-ec3.notion.site/32a3b77fb91948369e810bcb01b7b813?pvs=4)
+
 ## Functions
 - [x] 1. unpacking PCX File
 - [x] 2. Scaling : 
